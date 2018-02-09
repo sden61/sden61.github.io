@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/sden61/sden61.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sden61/sden61.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<hr>
+<h2 class="western"><font color="#000080">ИП Шевцов Д.Д.</font></h2>
+<h2 class="western"><font color="#000080">Абонентское обслуживание компьютеров.</font></h2>
+<hr>
+<p style="margin-bottom: 0cm">Перечень работ входящих в абонентское обслуживание</p>
+<ul>
+	<li>
+		<p style="margin-bottom: 0cm">диагностика и наладка ПК ;</p>
+	</li>
+	<li>
+		<p style="margin-bottom: 0cm">установка программного обеспечения, его наладка и обновление;</p>
+	</li>
+	<li>
+		<p style="margin-bottom: 0cm">настройка мультимедийных программ;</p>
+	</li>
+	<li>
+		<p style="margin-bottom: 0cm">установка антивирусных программ, излечения компьютеров от вирусов;</p>
+	</li>
+	<li>
+		<p style="margin-bottom: 0cm">разбивка жестких дисков на разделы, форматирование;</p>
+	</li>
+	<li>
+		<p style="margin-bottom: 0cm">подключение к Интернету;</p>
+	</li>
+	<li>
+		<p style="margin-bottom: 0cm">замена неисправных и поврежденных деталей, полный ремонт ПК.</p>
+	</li>
+	<li>
+		<p style="margin-bottom: 0cm">чистка системных блоков ПК</p>
+	</li>
+	<li>
+		<p style="margin-bottom: 0cm">настройка <span lang="ru-RU">программного обеспечения </span>сканеров и принтеров</p>
+	</li>
+	<li>
+		<p style="margin-bottom: 0cm">Настройка Wi-Fi роутеров</p>
+	</li>
+</ul>
+<hr>
+<h2><font color="#000080">Перечень работ по отдельным тарифам.</font></h2>
+<ul>
+	<li>
+		<p style="margin-bottom: 0cm">восстановление утерянных данных; ( по отдельному тарифу)</p>
+	</li>
+	<li>
+		<p style="margin-bottom: 0cm">Монтаж сетей</p>
+	</li>
+	<li>
+		<p style="margin-bottom: 0cm">Программирование 1С</p>
+		<p style="margin-bottom: 0cm"><b>Комплектующие на замену оплачиваются отдельно.</b></p>
+	</li>
+</ul>
+<p style="margin-bottom: 0cm">&nbsp;</p>
+<h2 class="western"><font color="#000080">Продажа лицензионного программного обеспечения</font></h2>
+<p><font face="Times New Roman, serif"><font style="font-size: 12pt">Консультации по лицензированию ПО.</font></font></p>
+<p><font face="Times New Roman, serif"><font style="font-size: 12pt">Официальный партнер ведущих вендоров программного обеспечения:</font></font></p>
+<p><span style="display: inline-block; border: none; padding: 0cm"><font color="#333333"><font face="Times New Roman, serif">&lt;font style=&quot;font-size: 12pt&quot; &quot;=&quot;&quot;&gt;Лаборатория Касперского</font></font></span><font color="#333333"><font color="#333333"><font face="Times New Roman, serif"><font style="font-size: 12pt">&nbsp;, ESET, Drweb, Adobe, ABBYY, Microsoft, </font></font></font><font color="#333333"><font face="Times New Roman, serif"><font style="font-size: 12pt">и др.</font></font></font></font></p>
+<hr>
+<p lang="en-US"><font color="#333333">&nbsp;С 2018</font><br>
+	&nbsp;</p>
